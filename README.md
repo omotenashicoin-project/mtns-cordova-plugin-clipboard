@@ -1,0 +1,1 @@
+# mtns-cordova-plugin-clipboard
