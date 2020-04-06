@@ -1,0 +1,37 @@
+{
+  "name": "mtns-cordova-plugin-clipboard",
+  "version": "1.0.0",
+  "description": "Clipboard management plugin for Cordova/PhoneGap",
+  "cordova": {
+    "id": "site.mtns.cordova.clipboard",
+    "platforms": [
+      "ios",
+      "android",
+      "wp8",
+      "windows"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omotenashicoin-project/mtns-cordova-plugin-clipboard.git"
+  },
+  "keywords": [
+    "clipboard",
+    "copy and paste",
+    "cordova-ios",
+    "cordova-android",
+    "cordova-windows"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=4.0.0"
+    }
+  ],
+  "author": "Nakkie",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/omotenashicoin-project/mtns-cordova-plugin-clipboard#issues"
+  },
+  "homepage": "https://github.com/omotenashicoin-project/mtns-cordova-plugin-clipboard"
+}
